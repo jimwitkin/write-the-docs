@@ -11,7 +11,7 @@ This page was created from the tutorial in the [mapzen/write-the-docs repository
 
 Follow these general instructions to make a website with _GitHub Pages_.
 
-1. Create a new repository for your site.
+1. Create a new repository for your website.
 2. Create a branch to hold your changes.
 3. Add some files for your website. At a minimum, you need a file for the homepage. You can name this file index.md and use markdown formatting, or index.html and add the basic HTML page structure.
 4. Open a pull request to propose adding your changes into the master branch.
